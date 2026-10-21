@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "header": {
+        "description":"Experience Catalyst is a way to make new discorveries with experience.",
+        "name": "Experience Catalyst",
+        "min_engine_version": [1, 26, 50],
+        "version": [1, 0, 0],
+        "uuid": "cc38b98f-0d48-435b-9362-8f94b4199d99"
+    },
+
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.10.0"
+        },
+
+        {
+            "uuid": "d54d65bd-503e-4dbd-817b-0a54cd06f35a",
+            "version": [1, 0, 0]
+        },
+
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.2.0"
+        }
+    ],
+
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "e05496ec-cc75-44de-8177-07097da801e0",
+            "version": [1, 0, 0],
+            "description": "..."
+        },
+
+        {
+            "type": "script",
+            "language": "javascript",
+            "description": "...",
+            "uuid": "3e806f3f-47ba-4d6c-8851-5a585f841620",
+            "version": [1, 0, 0],
+            "entry": "scripts/main.js"
+        }
+    ]
+}

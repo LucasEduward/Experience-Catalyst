@@ -1,0 +1,8 @@
+{
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "ec_enriched_lapis": {
+            "textures": "textures/items/enriched_lapis"
+        }
+    }
+}

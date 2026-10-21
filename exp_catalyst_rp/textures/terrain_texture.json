@@ -1,0 +1,10 @@
+{
+    "resource_pack_name": "RP",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+
+        "ec_ancient_catalyst": {
+            "textures": "textures/blocks/ancientCatalyst/Base"
+        }
+    }
+}

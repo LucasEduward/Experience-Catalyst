@@ -1,0 +1,7 @@
+##Blocks
+tile.ec:ancient_catalyst.name=Ancient Catalyst
+##Items
+item.ec:enriched_lapis.name=Enriched Lapis-Lazuli
+
+##Raw Messages
+ec.ancient_catalyst.notEnoughXP=§cYou don't have enough §eEXPERIENCE§c to enrich it

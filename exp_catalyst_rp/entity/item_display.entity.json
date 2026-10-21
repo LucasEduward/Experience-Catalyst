@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "ec:item_display",
+            "materials": {"default": "entity_alphatest"},
+            "textures": {"default": "textures/blocks/ancientCatalyst/Base"},
+            "geometry": {"default": "geometry.ec_item_display"},
+            "animations": {"float": "animation.ec.item_display.float"},
+            "scripts": {"animate": ["float"]},
+            "render_controllers": ["controller.render.default"]
+        }
+    }
+}

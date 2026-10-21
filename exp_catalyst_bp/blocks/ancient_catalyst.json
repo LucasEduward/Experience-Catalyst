@@ -1,0 +1,39 @@
+{
+    "format_version": "1.26.50",
+    "minecraft:block": {
+        "description": {
+            "identifier": "ec:ancient_catalyst",
+            "menu_category": {
+                "category": "items"
+            }
+            
+        },
+
+        "components": {
+            "minecraft:collision_box":{
+                "origin": [-8, 0, -8],
+                "size": [16, 8, 16]
+            },
+            "minecraft:geometry": {
+                "identifier": "geometry.ancient_catalyst"
+                
+            },
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "ec_ancient_catalyst",
+                    "render_method": "alpha_test"
+                }
+
+                
+            },
+            "minecraft:selection_box": {
+                "origin": [-8, 0, -8],
+                "size": [16, 8, 16]
+            },
+
+            "ec:catalyst": {}
+        }
+        
+    }
+    
+}

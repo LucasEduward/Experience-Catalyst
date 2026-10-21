@@ -1,0 +1,8 @@
+##Blocos
+tile.ec:ancient_catalyst.name=Catalisador Ancestral
+
+##Itens
+item.ec:enriched_lapis.name=Lápis-Lazuli Enriquecido
+
+##Raw Messages
+ec.ancient_catalyst.notEnoughXP=§cVocê não tem §eEXPERIÊNCIA§c o suficiente para o enriquecimento

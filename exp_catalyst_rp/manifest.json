@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Experience Catalyst RP",
+        "description": "RP pack for experience catalyst",
+        "uuid": "d54d65bd-503e-4dbd-817b-0a54cd06f35a",
+        "min_engine_version": [1, 26, 50],
+        "version": [1, 0, 0]
+    },
+
+    "modules": [
+        {
+            "type": "resources",
+            "description": "...",
+            "version": [1, 0, 0],
+            "uuid": "6b1f0e3a-2c7d-4e58-9a41-8d3f5b72c019"
+        }
+    ]
+}
